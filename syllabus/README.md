@@ -371,7 +371,10 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/D09-1120" target="_blank">Simple Coreference Resolution with Rich Syntactic and Semantic Features</a> (Haghighi and Klein 2009, rule-based coreference)
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/P16-1061" target="_blank">Improving Coreference Resolution by Learning Entity-Level Distributed
   Representations</a> (Clark and Manning 2016, neural coreference)
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1LsXU5IWYAuvyBgN5zmqgSzptXwOwKyaOwuRmejSCSXg/preview" target="_blank">[Slides]</a>
+  </td>
 </tr>
 <tr><!--- Project Milestone -->
   <td><strong><a href="../project/#milestone" target="_blank">Project&nbsp;Milestone</a></strong>
@@ -398,7 +401,10 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
   <td><ul>
   <li>Skim: <a href="http://www.isi.edu/natural-language/mt/wkbk.rtf" target="_blank">Statistical MT Handbook by Kevin Knight</a>
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 13 -->
   <td><strong>Week&nbsp;13</strong><br>(Apr.&nbsp;10&nbsp;-&nbsp;16)</td>
@@ -413,7 +419,10 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
   <li><em>Optional:</em> <a href="https://arxiv.org/abs/1609.08144" target="_blank">Google’s Neural Machine Translation System</a>
   <li><em>Optional:</em> <a href="http://distill.pub/2016/augmented-rnns/#attentional-interfaces" target="_blank">Attention and Augmented Recurrent Neural Networks</a> (section on “Attentional Interfaces” has an awesome visualization of an MT example, showing alignments)
-  </ul></td>
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1PwV1xPx0q4z8pD6K324qGnPPaUf_-mpCqUPO-KNJ7Nc/preview" target="_blank">[MT Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 7-10 Assignment -->
   <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
@@ -440,7 +449,10 @@ We'll update the table below with assignments as they become available, as well 
   <td><ul>       
   <li>Skim: <a href="https://www.cs.cmu.edu/~afm/Home_files/Das_Martins_survey_summarization.pdf" target="_blank">A Survey on Automatic Text Summarization</a> (Das and Martins, 2007)
   <li>Read: <a href="https://arxiv.org/pdf/1509.00685v2.pdf" target="_blank">A Neural Attention Model for Abstractive Sentence Summarization</a> (Rush et al. 2015)
-  </ul></td>     
+  </ul>
+  <p>
+  <a href="https://docs.google.com/presentation/d/1OBosgpmWlmZ30T8M5uxTtS-Dp9DRQmeHScCxFpduYBc/preview" target="_blank">[Slides]</a>
+  </td>
 </tr>
 <tr><!--- Week 15 -->
   <td><strong>Week&nbsp;15</strong><br>(Apr.&nbsp;24&nbsp;-&nbsp;28)</td>
