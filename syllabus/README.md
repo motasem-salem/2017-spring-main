@@ -478,7 +478,7 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
-  <br><strong>due Apr.&nbsp;28<br>(hard deadline)</strong>
+  <br><strong>due Apr.&nbsp;30<br>(hard deadline)</strong>
   </td>
   <td></td>
   <td></td>

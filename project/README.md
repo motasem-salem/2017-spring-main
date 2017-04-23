@@ -12,7 +12,7 @@ We’ll set several milestones to check in along the way:
 - [10%] **Project proposal** (and groups), due at end of Week 5 (Sunday February 12 @ 11:59 PM Pacific)
 - [30%] **Milestone** due end Week 11 (Sunday March 26 @ 11:59 PM Pacific)
 - [10%] **Final presentations** in class Week 15 (April 24 - April 28)
-- [50%] **Project writeup** due last day of classes (April 28 @ 11:59 PM Pacific)
+- [50%] **Project writeup** due last day of classes (April 30 @ 11:59 PM Pacific)
 
 ## Project Scope and Ideas
 The project is very open-ended, but we do require it to be an NLP project. This means that, at its core, your project should be about processing text, speech, or other form of language. It need not be completely novel in the way that academic research is, but should attempt to do something non-trivial or non-obvious with the data and/or algorithm. For example, you could:
@@ -88,7 +88,11 @@ Please send your write-up in PDF format to mids-nlp-instructors@googlegroups.com
 ## Presentations 
 **10% of project grade**
 
-Expect that your group will give a short (5-10min) presentation summarizing your project during live session in the last week. We’ll announce a schedule and further details of the presentation format closer to the end of the term.
+Presentations will be in-class on 4/24, 4/45, and 4/28 during the normal live session time.
+
+Your group will give a **5 minute** presentation. Due to the large number of projects, _time limits will be strictly enforced!_ We strongly encourage you to rehearse with your group to be sure you have time to cover your main points.
+
+See Piazza for a link to the presentation schedule.
 
 ## Final Submission
 **50% of project grade**
@@ -101,5 +105,10 @@ This will be a final report in the style of a research paper. Aim for something 
 - **Results and discussion** (include plots & figures, and detailed analysis in comparison to baseline and the literature, if applicable)
 - **Conclusion**
 
-Again, please send your write-up PDF by email to mids-nlp-instructors@googlegroups.com and include a link to all the code you wrote.
+Be sure to provide references! As on the proposal, you should cite original research papers relevant to your topic, and describe in your write-up how your work draws on and is related to other works in the field.
 
+You should also share your code with us via GitHub. Either include a link in your email to your own repository, or you can create one under the course organization using this link: [GitHub classroom - 2017-spring-project](https://classroom.github.com/group-assignment-invitations/4caa36f0aacdbf7dd8a4105d4e79e2b4)
+
+Please send your write-up **in PDF format** by email to mids-nlp-instructors@googlegroups.com, along with a GitHub link to your code. 
+
+*Word documents, .zip files, and projects sent via other means than mids-nlp-instructors@googlegroups.com may not be accepted!* 
